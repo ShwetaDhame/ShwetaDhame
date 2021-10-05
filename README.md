@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shweta Shivlal Dhame</h1>
 <h3 align="center">Learner</h3>
 
-- 🔭 I’m currently working on **Documentation**
+- 🔭 I’m currently working on **Database**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
